@@ -250,7 +250,9 @@ a {
     /*color: rgba(255, 255, 255, 0.65);*/
     color: #53626b;
   }
-
+.site-footer .container .row .col-md-12 p {
+  letter-spacing: normal;
+}
 .bg-text-line {
   display: inline;
    background: rgba(83, 98, 107, 0.3);
